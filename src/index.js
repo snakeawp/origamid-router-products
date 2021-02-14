@@ -11,6 +11,11 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
+// https://ranekapi.origamid.dev/json/api/produto
+
+// https://ranekapi.origamid.dev/json/api/produto/notebook
+
+
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
