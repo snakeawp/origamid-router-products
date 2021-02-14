@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Projeto criado por mim para que eu pudesse melhorar minhas habilidades em React Router Dom. Acessando diretamente a API da ORIGAMID.
 
 ## Available Scripts
 
