@@ -16,7 +16,6 @@ h1 {
   font-size: 1.4rem;
 }
 
-
 .App {
   display: flex;
   flex-direction: column;
@@ -41,15 +40,14 @@ h1 {
   }
 }
 
-
 .loading {
+  /* background: url(../src/img/steam-brands.svg) no-repeat; */
   width: 20px;
   height: 20px;
   border-radius: 50%;
   border: solid 10px #ccc;
   border-right-color: transparent;
   animation: loading 1s infinite;
-
 }
 
 @keyframes loading {
